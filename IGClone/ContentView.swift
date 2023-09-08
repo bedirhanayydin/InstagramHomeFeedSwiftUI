@@ -34,9 +34,9 @@ struct ContentView_Previews: PreviewProvider {
 struct HeaderView: View {
     var body: some View {
         HStack {
-            Image("logo")
+            Image("logo1")
                 .resizable()
-                .frame(width: 100, height: 40)
+                .frame(width: 70, height: 40)
             
             Spacer()
             
