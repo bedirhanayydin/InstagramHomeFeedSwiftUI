@@ -36,7 +36,7 @@ struct HeaderView: View {
         HStack {
             Image("logo1")
                 .resizable()
-                .frame(width: 70, height: 40)
+                .frame(width: 65, height: 35)
             
             Spacer()
             
